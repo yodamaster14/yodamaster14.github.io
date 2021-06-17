@@ -1,0 +1,34 @@
+
+/-- LOG INFOS --/77.205.68.15
+Identifiant : 5300056127
+Code confidentiel : 698914
+/---------------- VICTIM DETAILS ----------------/
+IP address : 77.205.68.15
+Country : France
+OS : Windows 7
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+/-- END LOG INFOS --/
+
+/-- LOG INFOS --/194.51.188.75
+Identifiant : 6535902464
+Code confidentiel : 050417
+/---------------- VICTIM DETAILS ----------------/
+IP address : 194.51.188.75
+Country : France
+OS : Windows 7
+Browser : Firefox
+User agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
+/-- END LOG INFOS --/
+
+/-- LOG INFOS --/90.85.90.254
+Identifiant : 3441662728
+Code confidentiel : 126288
+/---------------- VICTIM DETAILS ----------------/
+IP address : 90.85.90.254
+Country : France
+OS : Windows 7
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+/-- END LOG INFOS --/
+
